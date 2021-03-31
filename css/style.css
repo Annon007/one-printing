@@ -28,3 +28,22 @@
 .icon:hover{
     color: crimson;
  }
+#sample{
+     background-color: crimson;
+     padding: 3% 15%;
+     text-align: center;
+     
+ }
+ .sample-img{
+    
+     margin: 2rem 0 3rem;
+ }
+ #press{
+     background-color: crimson;
+     text-align: center;
+     margin-bottom: 2rem;
+ }
+ .press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
