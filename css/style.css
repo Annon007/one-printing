@@ -27,10 +27,11 @@ a,p,h2,h3{
 }
 .t-img{
     width: 60%;
+    margin: 5px 0 0;
     
 }
 .dwn-btn{
-    margin:2px 15px 0 ;
+    margin:2px 15px 2px ;
 }
 #features{
     padding: 3% 15%;
