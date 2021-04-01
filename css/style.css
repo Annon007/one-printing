@@ -1,6 +1,14 @@
 
-a{
+a,p,h2,h3{
+    font-family: "Ubuntu";
     color: black;
+    
+    line-height: 1.5;
+}
+.font-m{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 1.5;
 }
 .nav-img{
     border-radius: 100%;
@@ -49,8 +57,31 @@ a{
      background-color: rgb(255, 255, 255);
      text-align: center;
      margin-bottom: 2rem;
+     padding: 3% 15%;
+     border-bottom: 2px solid rgb(212, 209, 209);
  }
  .press-logo{
     width: 15%;
     margin: 20px 20px 50px;
+}
+#pricing{
+    padding: 3% 15%;
+
+}
+#owner-bio{
+    background-color: rgb(184, 45, 73);
+    padding: 3% 15%;
+    text-align: center;
+}
+.own-img{
+    border-radius: 100%;
+    width: auto;
+    height: 200px;
+    margin-bottom: 1rem;
+    
+}
+#footer{
+    background-color: rgb(94, 93, 95);
+    text-align: center;
+    padding: 3% 15%;
 }
